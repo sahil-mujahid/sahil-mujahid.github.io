@@ -66,13 +66,13 @@ Alongside the UI, I refined the pallet and loader animations so they matched the
 
 Sprint 5 was about bringing everything together and making the XR interface feel like a finished product. I took the lead on finalising the HUD design: deciding the layout, colours, and wording for normal status and error states so operators could quickly understand what the cell was doing.
 
-![Final HUD layout overview used in Sprint 5 planning](sprint5finalhud.jpg)
+![Final HUD layout overview used in Sprint 5 planning](sprint5finalhud.jpeg)
 
 I refined the “System Status” and “Error Status” panels so they clearly switched between green normal state and red fault state based on live data.
 
-![Final XR HUD in normal green system status](finalhudgreen.jpg)
+![Final XR HUD in normal green system status](finalhudgreen.jpeg)
 
-![Final XR HUD in error red system status](finalhudred.jpg)
+![Final XR HUD in error red system status](finalhudred.jpeg)
 
 At the same time I helped with final tests of the end‑to‑end pipeline and contributed material for the written report and presentation, explaining how the HUD and animations express the underlying error‑handling logic.
 
