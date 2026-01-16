@@ -48,6 +48,33 @@ I also experimented with different motion ideas for loaders and error reactions.
   Your browser does not support the video tag.
 </video>
 
+## Sprint 4 – Data‑Driven UI and Refined Pallet Animations
+
+In Sprint 4 the focus shifted to making the Unity scene feel closer to the real system. On the Taiga board this matched stories like “Connect data from Unity with User Interface”, while more API and mapping work happened on the Node‑RED side. My job was to take the values arriving from the backend and show them clearly in XR, while also polishing the pallet animations started in the previous sprint.
+
+I worked on the main HUD layout in Unity, arranging tiles for key signals such as airflow, power, voltage and error status around the operator’s viewpoint. The screenshot below (`unityhud.png`) shows this data‑driven interface, where colours and labels were chosen so operators could quickly distinguish normal operation from problems.
+
+![Data‑driven XR HUD showing live values and error status panel](unityhud.png)
+
+Alongside the UI, I refined the pallet and loader animations so they matched the physical timing we expected from Machine 401. I adjusted easing, start/end positions and clip lengths, and tested how the motions looked when viewed through HoloLens. The video `finalanim.mp4` captures these more polished animations, which replaced the rough placeholder motion from Sprint 3 and prepared us for full end‑to‑end testing in the final sprint.
+
+<video src="/finalanim.mp4" controls width="640">
+  Your browser does not support the video tag.
+</video>
+
+## Sprint 5 – Final HUD, polish, and hand‑over
+
+Sprint 5 was about bringing everything together and making the XR interface feel like a finished product. I took the lead on finalising the HUD design: deciding the layout, colours, and wording for normal status and error states so operators could quickly understand what the cell was doing.
+
+![Final HUD layout overview used in Sprint 5 planning](sprint5finalhud.jpg)
+
+I refined the “System Status” and “Error Status” panels so they clearly switched between green normal state and red fault state based on live data.
+
+![Final XR HUD in normal green system status](finalhudgreen.jpg)
+
+![Final XR HUD in error red system status](finalhudred.jpg)
+
+At the same time I helped with final tests of the end‑to‑end pipeline and contributed material for the written report and presentation, explaining how the HUD and animations express the underlying error‑handling logic.
 
 
 
