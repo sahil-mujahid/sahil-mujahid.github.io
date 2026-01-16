@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contributions
-
+css: /assets/css/custom.css
 ---
 
 ### sprint 1: Planning, Setup and First Node‑RED Steps  
