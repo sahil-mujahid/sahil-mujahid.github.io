@@ -1,9 +1,17 @@
-body { background:#f5f8fb; color:#222; }
-.site-header { background:#0f4c81; border-bottom:3px solid #31b26d; }
-.site-title,.site-title:visited { color:#fff; }
-.site-nav .page-link { color:#e3f2fd; }
-.site-nav .page-link:hover { color:#a5ffd6; }
-h1,h2,h3,h4 { color:#0f4c81; }
-a,a:visited { color:#31b26d; }
-a:hover { color:#0f4c81; }
-.note-box { border-left:4px solid #31b26d; background:#e8f5ff; padding:0.75rem 1rem; margin:1rem 0; }
+body {
+  background:#111;
+  color:#eee;
+}
+
+.site-header {
+  background:#000;
+  border-bottom:3px solid #31b26d;
+}
+
+h1,h2,h3,h4 {
+  color:#a5ffd6;
+}
+
+a,a:visited {
+  color:#31b26d;
+}
