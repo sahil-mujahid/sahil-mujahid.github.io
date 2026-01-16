@@ -9,4 +9,4 @@ header_pages:
   - ethics.md
 
 minima:
-  skin: dark
+  skin: solarised-light
