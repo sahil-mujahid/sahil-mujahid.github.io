@@ -1,3 +1,10 @@
+---
+layout: page
+title: Home
+css: /assets/css/custom.css
+---
+
+
 # XR Individual Project Portfolio (IPP2)
 
 **Author:** Sahil Mujahid  
