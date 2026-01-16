@@ -5,7 +5,6 @@ css: /assets/css/custom.css
 ---
 
 ### sprint 1: Planning, Setup and First Node‑RED Steps  
-**Mon 27 Oct – Fri 31 Oct 2025**
 
 This week was about shaping the project and getting the technical ground ready. I co‑planned the overall pipeline on the whiteboard, sketching how PLC data would flow through Node‑RED and InfluxDB into Unity with MRTK3 and WebRequests driving the XR side. I helped Laheeq with the initial Node‑RED environment, especially around testing OPC UA connections and understanding how we might read SIF‑401 data even while wireless access was still unstable.
 
