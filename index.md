@@ -15,8 +15,7 @@ This section documents my personal work on the project, focusing on animation, X
 | Week 2 | Built **PalletDrop_Rig** with arrow indicating motion. Added rigs for square canister loader and cylinder drop. Tweaked timing and easing of animations. | Unity Animator / Animation windows. GIF of loading sequence. Small C# snippet triggering animations from API values. |
 | Week 3 | Designed alarm and status UI panels in world space. Implemented colour‑coding (green/amber/red) and text changes at runtime. Helped decide layout and interaction flow for XR operator view. | Unity UI canvases, TextMeshPro. Screenshots of final HUD and alarm panel. Script for updating text and colours via API data. |
 | Week 4 | Packaged rigs as reusable prefabs and Unity packages. Coordinated short stand‑ups and task breakdown (informal management role). Assisted teammates integrating their logic scripts with my animations. | Prefab + `.unitypackage` exports. Notes and chat logs about integration issues and fixes. |
-
-Add links or images below (e.g. `![Pallet rig](images/pallet.png)`).
+this is a rough estimate for what actually happened
 
 ---
 
