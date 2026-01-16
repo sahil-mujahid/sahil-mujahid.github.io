@@ -16,7 +16,7 @@ This portfolio presents my individual contribution, learning journey, and reflec
 
 ## Welcome
 
-I worked as the project designer, pipeline architect, and Unity XR contributor for our six‑person team.  
+I worked as the project designer, pipeline architect, animator, and Unity XR contributor for our six‑person team.  
 My main focus was turning the idea of “live error mitigation in XR” into a concrete pipeline from PLC data, through Node‑RED and InfluxDB, into an interactive Unity scene.
 
 ## Portfolio sections
