@@ -1,6 +1,5 @@
 title: Individual Project Portfolio 2
-description: XR Individual Project Portfolio
-theme: jekyll-theme-cayman
+theme: minima
 
 header_pages:
   - index.md
@@ -8,3 +7,6 @@ header_pages:
   - reflection.md
   - peer-feedback.md
   - ethics.md
+
+minima:
+  skin: dark
