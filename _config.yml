@@ -4,7 +4,7 @@ theme: minima
 header_pages:
   - index.md
   - contributions.md
-  - reflection.md
+  - Reflection.md
   - peer-feedback.md
   - ethics.md
 
