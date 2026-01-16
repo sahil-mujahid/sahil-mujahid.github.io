@@ -1,0 +1,12 @@
+title: Individual Project Portfolio 2
+theme: minima
+
+header_pages:
+  - index.md
+  - contributions.md
+  - reflection.md
+  - peer-feedback.md
+  - ethics.md
+
+minima:
+  skin: classic
