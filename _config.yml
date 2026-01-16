@@ -9,4 +9,4 @@ header_pages:
   - ethics.md
 
 minima:
-  skin: classic
+  skin: dark
