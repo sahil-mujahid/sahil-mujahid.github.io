@@ -1,1 +1,21 @@
-body { background:#111; color:#eee; }
+body {
+  background:#050816;
+  color:#e5e9f0;
+}
+
+.site-header {
+  background:#020713;
+  border-bottom:4px solid #31b26d;
+}
+
+h1, h2, h3, h4 {
+  color:#88c0ff;
+}
+
+a, a:visited {
+  color:#31b26d;
+}
+
+a:hover {
+  color:#88c0ff;
+}
