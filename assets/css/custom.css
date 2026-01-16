@@ -1,17 +1,1 @@
-body {
-  background:#111;
-  color:#eee;
-}
-
-.site-header {
-  background:#000;
-  border-bottom:3px solid #31b26d;
-}
-
-h1,h2,h3,h4 {
-  color:#a5ffd6;
-}
-
-a,a:visited {
-  color:#31b26d;
-}
+body { background:#111; color:#eee; }
